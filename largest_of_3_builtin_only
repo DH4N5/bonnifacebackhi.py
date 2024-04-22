@@ -1,0 +1,8 @@
+n1=int(input("Enter your number"))
+n2=int(input("Enter your number"))
+n3=int(input("Enter your number"))
+x=[n1,n2,n3]
+k=max(x)
+print(k)
+# Max=max(n3,max(n1,n2))
+# print(Max)
